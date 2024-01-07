@@ -1,4 +1,4 @@
-# Exploring the possibilities: My LLM (small language model)
+# Exploring the possibilities: My LLM (little language model)
 
 [中文](./README.md)
 
